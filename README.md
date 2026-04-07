@@ -11,6 +11,8 @@ search-engine/
 └── internal/
     ├── crawler/
     ├── indexer/
+    ├── parser/
+    ├── pipeline/
     └── store/
 ```
 
